@@ -1,0 +1,22 @@
+  Pricing;
+> Weekly - 35$
+> Monthly - 100$
+> LifeTime - 250$
+
+  License transfer price;
+> 5$ (Max 2 times)
+
+  Requirements;
+> Hyper-V or USB Host Shield (safest method)
+> Disable secure boot
+> An arduino leonardo r3 (important) https://cdn.discordapp.com/attachments/963732982693236747/970703672671604766/unknown.png
+  
+  Payment types;
+> All cryptocurrencies
+> PayPal - %13 fee
+> CS:GO skins
+  
+
+We have discounts available on special days.
+
+© muffinval.xyz - Naitz#1337
